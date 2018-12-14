@@ -1,0 +1,25 @@
+.col-6
+{
+	padding: 120px;
+	line-height: 28px;
+}
+.button1
+{
+	background-color: #943126;
+    color: white;
+    font-family: Courier New;
+    padding: 5px;
+    border-radius: 20px;
+    margin-left: 230px;
+}
+
+.figure
+{
+	display: flex;
+}
+
+#row1
+{
+	display: flex;
+	background-color:#F5EEF8;
+}

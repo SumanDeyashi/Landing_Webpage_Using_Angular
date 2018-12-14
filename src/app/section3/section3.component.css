@@ -1,0 +1,43 @@
+#divi
+{
+	display: flex;
+}
+
+.firstname
+{
+
+    border-radius: 2px;
+    width: 250px;
+    height: 35px;
+    border: 1px solid darkgrey;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size:15px;
+}
+.lastname
+{
+
+    border-radius: 2px;
+    width: 250px;
+    height: 35px;
+    border: 1px solid darkgrey;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size:15px;
+}
+
+.email
+{
+
+    border-radius: 2px;
+    width: 250px;
+    height: 35px;
+    border: 1px solid darkgrey;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size:15px;
+}
+textarea
+{
+  font-size: 15px;
+}

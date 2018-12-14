@@ -1,0 +1,26 @@
+.col-12
+{
+	background-color: #943126;
+	word-spacing: 80px;
+	border-radius: 20px 20px 0px 0px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    font-family: Lucida Console;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 60px;
+
+  }
+a:hover
+{
+	background-color:#566573;
+}
+header
+{
+     margin:auto;
+     width: 80%;
+}

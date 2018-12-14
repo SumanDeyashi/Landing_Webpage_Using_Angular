@@ -1,0 +1,27 @@
+#row21
+{   padding: 10px;
+	  text-align: center;
+    color:white;
+    font-size: 20px;
+    font-family: Helvetica;
+    margin-left: 60px;
+    line-height: 40px;
+    margin-top: 40px;
+
+}
+
+#row2
+{
+	display: flex;
+	background: linear-gradient(to bottom, #ffcccc 0%, #800000 93%);
+}
+.button2
+{
+  color:black;
+  width: 40%;
+  height: 15%;
+  border-radius: 10px;
+  font-size: 20px;
+  font-family: Book Antiqua;
+  background-color: #F7DC6F;
+}
