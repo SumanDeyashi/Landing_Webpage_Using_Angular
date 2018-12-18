@@ -13,9 +13,9 @@ Duration: Nov, 2018 to Dec, 2018.
 
 This landing page taken from https://bit.ly/2Cib7P2 as a PSD.
 
-First thing you have to do create an angular project using "ng new 'project name' " command and for creating components using "ng g c 'component name' " command. According to PSD created five components header(with navbar), footer and for main body part divided into three section, section1, section2, section3 respectively.
+First thing you have to do create an angular project using "ng new 'project name' " command and for creating components using "ng g c 'component name' " command. According to PSD created five components header(with navbar), footer and for main body part divided into three section lliek section1, section2, section3 respectively.
 
-After That, for all texts, images and links used HTML/HTML5 tags. As per the PSD requirement used CSS/CSS3 style properties.
+After That, for all texts, images and links used HTML/HTML5 tags and as per the PSD requirement used CSS/CSS3 style properties for design.
 
 Finally, start the application using "ng serve" command.
 
