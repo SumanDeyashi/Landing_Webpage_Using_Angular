@@ -18,5 +18,3 @@ First thing you have to do create an angular project using "ng new 'project name
 After That, for all texts, images and links used HTML/HTML5 tags and as per the PSD requirement used CSS/CSS3 style properties for design.
 
 Finally, start the application using "ng serve" command.
-/
-
